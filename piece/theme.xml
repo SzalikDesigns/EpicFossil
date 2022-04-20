@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>5</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>P/ECE</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Aquaplus</text>
+  </text> 
+  <text name="sys_line2" extra="true">
+    <text>P/ECE</text>
+  </text> 
+  <text name="shortdescription" extra="true">
+    <text>2001  </text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text> It was created by Aquaplus, a company better known for visual novels, so it carries with it a certain oddball charm. After 20 years I find it heart-warming to see that the official website is still online!</text>
+  </text>
+ </view>
+</theme>

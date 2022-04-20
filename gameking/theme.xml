@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>5</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>GameKing</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>GameKing</text>
+  </text> 
+  <text name="shortdescription" extra="true">
+    <text>2003</text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>The original GameKing console is a 8-bit handheld game console. It is based around a 65C02 CPU running at 6.0 MHz. It is fashioned to look like Nintendo's Game Boy Advance and comes in a wide array of vivid pastel colours, either opaque or transparent, and uses 2 AAA size batteries. </text>
+  </text>
+ </view>
+</theme>

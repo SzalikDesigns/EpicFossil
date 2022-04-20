@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>5</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Retroachievements</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Retro</text>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>achievements</text>
+  </text>  
+  <text name="shortdescription" extra="true">
+    <text>All Consoles / Handhelds</text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>Access your achievements quickly and see what you earn in your fav game</text>
+  </text>
+ </view>
+</theme>

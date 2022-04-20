@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>5</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Mplayer</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>MPLAYER</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+    <text>Watching Video App</text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>Enjoy your videos on this device. Thanks to AmberELEC team.</text>
+  </text>
+ </view>
+</theme>

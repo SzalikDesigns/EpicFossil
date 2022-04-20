@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>5</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Game Pocket Computer</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Epoch</text>
+  </text> 
+  <text name="sys_line2" extra="true">
+    <text>Game Pocket Computer</text>
+  </text> 
+  <text name="shortdescription" extra="true">
+    <text>1984</text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy.</text>
+  </text>
+ </view>
+</theme>

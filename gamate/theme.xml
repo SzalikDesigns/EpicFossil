@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>5</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Gamate</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Gamate</text>
+  </text> 
+  <text name="shortdescription" extra="true">
+    <text>1990</text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>The Gamate appears to be the first of the many handheld consoles released in reaction to the success of Nintendo's Game Boy</text>
+  </text>
+ </view>
+</theme>

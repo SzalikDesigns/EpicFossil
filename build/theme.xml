@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>5</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>BUILD ENGINE</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>BUILD ENGINE</text>
+  </text>  
+  <text name="shortdescription" extra="true">
+    <text>Special AmberELEC feature</text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>Allow you to play epic games</text>
+  </text>
+ </view>
+</theme>
