@@ -1,7 +1,8 @@
 ## AmberEPIC
 
 Special fork dedicated for AmberELEC project and RG552 Device.
-Support all of the systems and auto=collections
+
+###### Support **all** of the systems and auto-collections
 
 ---
 
