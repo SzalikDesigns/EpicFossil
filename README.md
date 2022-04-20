@@ -1,7 +1,9 @@
 ## AmberEPIC
 
 Special fork dedicated for AmberELEC project and RG552 Device.
-Support all of the systems and autocollections
+Support all of the systems and auto=collections
+
+---
 
 ### License
 
@@ -27,7 +29,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 ---
 
-### Thanks and Credits
+### Thanks and Extra Credits
 
 Updated and cleaned by Romfrosk.
 
@@ -49,8 +51,8 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 
 ### Screenshots
 
-![Sample01]() \
-![Sample02]() \
+![1](https://user-images.githubusercontent.com/77732736/164304642-371dca02-f885-4e89-aa42-2b42db747e67.png)
+![2](https://user-images.githubusercontent.com/77732736/164304664-3bc61f38-e0e3-4232-b0df-fbe062aa2ac8.png)
 
-###### thanks
+###### thanks for reading!
 
