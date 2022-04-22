@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>5</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>CD-i</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Compact Disc Interactive</text>
+  </text>
+  <text name="shortdescription" extra="true">
+    <text>1991  ·  16-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>is a digital optical disc data storage format that was mostly developed and marketed by Dutch company Philips. It was created as an extension of CDDA and CD-ROM and specified in the Green Book, co-developed by Philips and Sony, to combine audio, text and graphics.</text>
+  </text>
+ </view>
+</theme>
